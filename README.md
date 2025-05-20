@@ -1,10 +1,10 @@
-AIM:
+# AIM:
 Write a Python program for the modulation and demodulation of QPSK.
 
-TOOLS REQUIRED:
+# TOOLS REQUIRED:
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 
-PROGRAM:
+# PROGRAM:
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -84,5 +84,5 @@ plt.show()
 OUTPUT WAVEFORM :
 qpsk
 
-RESULTS:
+# RESULTS:
 Thus The QPSK (Quadratic Phase Shift Keying) is performed using python.
